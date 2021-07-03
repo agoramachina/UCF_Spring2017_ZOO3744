@@ -1,1 +1,2 @@
-## Diagrams and Models from Spring 2017 Neuroscience Class at UCF
+## UCF Neuroscience, Spring 2017
+A collection of diagrams and models for ZOO 3744
